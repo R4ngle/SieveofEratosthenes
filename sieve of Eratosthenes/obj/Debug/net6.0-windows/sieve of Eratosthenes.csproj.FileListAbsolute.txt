@@ -1,0 +1,16 @@
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\bin\Debug\net6.0-windows\sieve of Eratosthenes.exe
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\bin\Debug\net6.0-windows\sieve of Eratosthenes.deps.json
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\bin\Debug\net6.0-windows\sieve of Eratosthenes.runtimeconfig.json
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\bin\Debug\net6.0-windows\sieve of Eratosthenes.dll
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\bin\Debug\net6.0-windows\sieve of Eratosthenes.pdb
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve_of_Eratosthenes.Form1.resources
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.csproj.GenerateResource.cache
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.AssemblyInfoInputs.cache
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.AssemblyInfo.cs
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.dll
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\refint\sieve of Eratosthenes.dll
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.pdb
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\sieve of Eratosthenes.genruntimeconfig.cache
+C:\Users\hegel\source\repos\sieve of Eratosthenes\sieve of Eratosthenes\obj\Debug\net6.0-windows\ref\sieve of Eratosthenes.dll
